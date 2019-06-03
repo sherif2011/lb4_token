@@ -1,0 +1,6 @@
+{
+  "name": "revokedToken",
+  "connector": "memory",
+  "localStorage": "",
+  "file": ""
+}

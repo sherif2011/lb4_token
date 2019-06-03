@@ -1,0 +1,10 @@
+{
+  "name": "tokenDB",
+  "connector": "postgresql",
+  "url": "",
+  "host": "localhost",
+  "port": 5432,
+  "user": "postgres",
+  "password": "Sunrise@2015",
+  "database": "test"
+}
